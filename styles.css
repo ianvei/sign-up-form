@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: bookmania;
-    src: url("/font/Norse-Bold.otf");
+    src: url("font/Norse-Bold.otf");
 }
 
 body {
@@ -31,7 +31,7 @@ body {
     justify-content: space-between;
     width: 40vw;
     /* background-color: aliceblue; */
-    background-image: url("/images/bluesky.jpeg");
+    background-image: url("images/bluesky.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
